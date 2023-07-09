@@ -62,6 +62,7 @@ You can easily run training as well as inference with the following scripts
 ```
 # training stage
 # The following two script files differ only in datasets
+cd model
 bash run_fewrel.sh
 bash run_wikizsl.sh
 
