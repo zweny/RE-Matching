@@ -1,0 +1,3150 @@
+[
+  {
+    "relation": "P17",
+    "description": [
+      "country",
+      "is",
+      "sovereign",
+      "state",
+      "of",
+      "this",
+      "item"
+    ],
+    "h": [
+      "item"
+    ],
+    "t": [
+      "country"
+    ]
+  },
+  {
+    "relation": "P22",
+    "description": [
+      "father",
+      "is",
+      "male",
+      "parent",
+      "of",
+      "the",
+      "subject",
+      "(",
+      "person",
+      ")"
+    ],
+    "h": [
+      "subject",
+      "person"
+    ],
+    "t": [
+      "father"
+    ]
+  },
+  {
+    "relation": "P27",
+    "description": [
+      "country",
+      "of",
+      "citizenship",
+      "is",
+      "the",
+      "object",
+      "is",
+      "a",
+      "country",
+      "that",
+      "recognizes",
+      "the",
+      "subject",
+      "as",
+      "its",
+      "citizen"
+    ],
+    "h": [
+      "subject",
+      "citizen"
+    ],
+    "t": [
+      "country of citizenship"
+    ]
+  },
+  {
+    "relation": "P31",
+    "description": [
+      "instance",
+      "of",
+      "is",
+      "that",
+      "class",
+      "of",
+      "which",
+      "this",
+      "subject",
+      "is",
+      "a",
+      "particular",
+      "example",
+      "and",
+      "member",
+      ".",
+      "(",
+      "Subject",
+      "typically",
+      "an",
+      "individual",
+      "member",
+      "with",
+      "Proper",
+      "Name",
+      "label",
+      ".",
+      ")"
+    ],
+    "h": [
+      "particular example",
+      "individual member"
+    ],
+    "t": [
+      "class"
+    ]
+  },
+  {
+    "relation": "P39",
+    "description": [
+      "position",
+      "held",
+      "is",
+      "subject",
+      "currently",
+      "or",
+      "formerly",
+      "holds",
+      "the",
+      "object",
+      "position",
+      "or",
+      "public",
+      "office"
+    ],
+    "h": [
+      "subject"
+    ],
+    "t": [
+      "position held"
+    ]
+  },
+  {
+    "relation": "P57",
+    "description": [
+      "director",
+      "is",
+      "director",
+      "(",
+      "s",
+      ")",
+      "of",
+      "this",
+      "motion",
+      "picture",
+      ",",
+      "TV-series",
+      ",",
+      "stage",
+      "play",
+      ",",
+      "video",
+      "game",
+      "or",
+      "similar"
+    ],
+    "h": [
+      "motion picture",
+      "TV-series",
+      "stage play",
+      "video",
+      "game"
+    ],
+    "t": [
+      "director"
+    ]
+  },
+  {
+    "relation": "P58",
+    "description": [
+      "screenwriter",
+      "is",
+      "author",
+      "(",
+      "s",
+      ")",
+      "of",
+      "the",
+      "screenplay",
+      "or",
+      "script",
+      "for",
+      "this",
+      "work"
+    ],
+    "h": [
+      "screenplay",
+      "script"
+    ],
+    "t": [
+      "screenwriter",
+      "author"
+    ]
+  },
+  {
+    "relation": "P86",
+    "description": [
+      "composer",
+      "is",
+      "person",
+      "(",
+      "s",
+      ")",
+      "who",
+      "wrote",
+      "the",
+      "music",
+      ";",
+      "also",
+      "use",
+      "poetry",
+      "for",
+      "lyricist"
+    ],
+    "h": [
+      "music",
+      "poetry"
+    ],
+    "t": [
+      "composer",
+      "lyricist",
+      "person"
+    ]
+  },
+  {
+    "relation": "P101",
+    "description": [
+      "field",
+      "of",
+      "work",
+      "is",
+      "specialization",
+      "of",
+      "a",
+      "person",
+      "or",
+      "organization",
+      ";"
+    ],
+    "h": [
+      "person",
+      "organization"
+    ],
+    "t": [
+      "field of work"
+    ]
+  },
+  {
+    "relation": "P102",
+    "description": [
+      "member",
+      "of",
+      "political",
+      "party",
+      "is",
+      "the",
+      "political",
+      "party",
+      "of",
+      "which",
+      "this",
+      "politician",
+      "is",
+      "or",
+      "has",
+      "been",
+      "a",
+      "member"
+    ],
+    "h": [
+      "politician",
+      "member"
+    ],
+    "t": [
+      "political party"
+    ]
+  },
+  {
+    "relation": "P106",
+    "description": [
+      "occupation",
+      "is",
+      "occupation",
+      "of",
+      "a",
+      "person"
+    ],
+    "h": [
+      "person"
+    ],
+    "t": [
+      "occupation"
+    ]
+  },
+  {
+    "relation": "P118",
+    "description": [
+      "league",
+      "is",
+      "league",
+      "in",
+      "which",
+      "team",
+      "or",
+      "player",
+      "plays",
+      "or",
+      "has",
+      "played",
+      "in"
+    ],
+    "h": [
+      "player",
+      "team"
+    ],
+    "t": [
+      "league"
+    ]
+  },
+  {
+    "relation": "P123",
+    "description": [
+      "publisher",
+      "is",
+      "organization",
+      "or",
+      "person",
+      "responsible",
+      "for",
+      "publishing",
+      "books",
+      ",",
+      "periodicals",
+      ",",
+      "games",
+      "or",
+      "software"
+    ],
+    "h": [
+      "publishing books",
+      "periodicals",
+      "software",
+      "games"
+    ],
+    "t": [
+      "organization",
+      "person",
+      "publisher"
+    ]
+  },
+  {
+    "relation": "P127",
+    "description": [
+      "owned",
+      "by",
+      "is",
+      "owner",
+      "of",
+      "the",
+      "subject"
+    ],
+    "h": [
+      "subject"
+    ],
+    "t": [
+      "owner"
+    ]
+  },
+  {
+    "relation": "P131",
+    "description": [
+      "located",
+      "in",
+      "the",
+      "administrative",
+      "territorial",
+      "entity",
+      "is",
+      "the",
+      "item",
+      "is",
+      "located",
+      "on",
+      "the",
+      "territory",
+      "of",
+      "the",
+      "following",
+      "administrative",
+      "entity",
+      "(",
+      "provinces",
+      ",",
+      "states",
+      ",",
+      "countries",
+      ",",
+      "etc",
+      ".",
+      ")"
+    ],
+    "h": [
+      "item"
+    ],
+    "t": [
+      "administrative territorial entity",
+      "provinces",
+      "states",
+      "countries"
+    ]
+  },
+  {
+    "relation": "P135",
+    "description": [
+      "movement",
+      "is",
+      "literary",
+      ",",
+      "artistic",
+      ",",
+      "scientific",
+      "or",
+      "philosophical",
+      "movement",
+      "associated",
+      "with",
+      "this",
+      "person",
+      "or",
+      "work"
+    ],
+    "h": [
+      "person",
+      "work"
+    ],
+    "t": [
+      "movement",
+      "literary",
+      "artistic",
+      "scientific",
+      "philosophical movement"
+    ]
+  },
+  {
+    "relation": "P136",
+    "description": [
+      "genre",
+      "is",
+      "creative",
+      "work",
+      "\u2019",
+      "s",
+      "genre",
+      "or",
+      "an",
+      "artist",
+      "\u2019",
+      "s",
+      "field",
+      "of",
+      "work",
+      "."
+    ],
+    "h": [
+      "artist",
+      "creative work"
+    ],
+    "t": [
+      "genre",
+      "field of work"
+    ]
+  },
+  {
+    "relation": "P140",
+    "description": [
+      "religion",
+      "is",
+      "religion",
+      "of",
+      "a",
+      "person",
+      ",",
+      "organization",
+      "or",
+      "religious",
+      "building",
+      ",",
+      "or",
+      "associated",
+      "with",
+      "this",
+      "subject"
+    ],
+    "h": [
+      "person",
+      "organization",
+      "religious building",
+      "subject"
+    ],
+    "t": [
+      "religion"
+    ]
+  },
+  {
+    "relation": "P150",
+    "description": [
+      "contains",
+      "administrative",
+      "territorial",
+      "entity",
+      "is",
+      "(",
+      "list",
+      "of",
+      ")",
+      "direct",
+      "subdivisions",
+      "of",
+      "an",
+      "administrative",
+      "territorial",
+      "entity"
+    ],
+    "h": [
+      "administrative territorial entity"
+    ],
+    "t": [
+      "administrative territorial entity"
+    ]
+  },
+  {
+    "relation": "P159",
+    "description": [
+      "headquarters",
+      "location",
+      "is",
+      "specific",
+      "location",
+      "where",
+      "an",
+      "organization",
+      "\u2019",
+      "s",
+      "headquarters",
+      "is",
+      "or",
+      "has",
+      "been",
+      "situated"
+    ],
+    "h": [
+      "organization"
+    ],
+    "t": [
+      "headquarters location"
+    ]
+  },
+  {
+    "relation": "P175",
+    "description": [
+      "performer",
+      "is",
+      "performer",
+      "involved",
+      "in",
+      "the",
+      "performance",
+      "or",
+      "the",
+      "recording",
+      "of",
+      "a",
+      "work"
+    ],
+    "h": [
+      "performance",
+      "recording of a work"
+    ],
+    "t": [
+      "performer"
+    ]
+  },
+  {
+    "relation": "P176",
+    "description": [
+      "manufacturer",
+      "is",
+      "manufacturer",
+      "or",
+      "producer",
+      "of",
+      "this",
+      "product"
+    ],
+    "h": [
+      "product"
+    ],
+    "t": [
+      "manufacturer",
+      "producer"
+    ]
+  },
+  {
+    "relation": "P178",
+    "description": [
+      "developer",
+      "is",
+      "organisation",
+      "or",
+      "person",
+      "that",
+      "developed",
+      "this",
+      "item"
+    ],
+    "h": [
+      "item"
+    ],
+    "t": [
+      "developer",
+      "organisation",
+      "person"
+    ]
+  },
+  {
+    "relation": "P241",
+    "description": [
+      "military",
+      "branch",
+      "is",
+      "branch",
+      "to",
+      "which",
+      "this",
+      "military",
+      "unit",
+      ",",
+      "award",
+      ",",
+      "office",
+      ",",
+      "or",
+      "person",
+      "belongs",
+      ",",
+      "e.g",
+      ".",
+      "Royal",
+      "Navy"
+    ],
+    "h": [
+      "military unit",
+      "award",
+      "office",
+      "person"
+    ],
+    "t": [
+      "military branch",
+      "Royal Navy"
+    ]
+  },
+  {
+    "relation": "P264",
+    "description": [
+      "record",
+      "label",
+      "is",
+      "brand",
+      "and",
+      "trademark",
+      "associated",
+      "with",
+      "the",
+      "marketing",
+      "of",
+      "subject",
+      "music",
+      "recordings",
+      "and",
+      "music",
+      "videos"
+    ],
+    "h": [
+      "music recordings",
+      "music videos"
+    ],
+    "t": [
+      "label",
+      "brand",
+      "trademark"
+    ]
+  },
+  {
+    "relation": "P276",
+    "description": [
+      "location",
+      "is",
+      "location",
+      "of",
+      "the",
+      "item",
+      ",",
+      "physical",
+      "object",
+      "or",
+      "event",
+      "is",
+      "within",
+      "."
+    ],
+    "h": [
+      "event",
+      "physical object",
+      "item"
+    ],
+    "t": [
+      "location"
+    ]
+  },
+  {
+    "relation": "P355",
+    "description": [
+      "subsidiary",
+      "company",
+      "is",
+      "subsidiary",
+      "of",
+      "a",
+      "company",
+      "or",
+      "organization",
+      ",",
+      "opposite",
+      "of",
+      "parent",
+      "company"
+    ],
+    "h": [
+      "company",
+      "organization"
+    ],
+    "t": [
+      "subsidiary company"
+    ]
+  },
+  {
+    "relation": "P400",
+    "description": [
+      "platform",
+      "is",
+      "platform",
+      "for",
+      "which",
+      "a",
+      "work",
+      "has",
+      "been",
+      "developed",
+      "or",
+      "released",
+      "/",
+      "specific",
+      "platform",
+      "version",
+      "of",
+      "a",
+      "software",
+      "developed"
+    ],
+    "h": [
+      "work",
+      "software"
+    ],
+    "t": [
+      "platform"
+    ]
+  },
+  {
+    "relation": "P403",
+    "description": [
+      "mouth",
+      "of",
+      "the",
+      "watercourse",
+      "is",
+      "the",
+      "body",
+      "of",
+      "water",
+      "to",
+      "which",
+      "the",
+      "watercourse",
+      "drains"
+    ],
+    "h": [
+      "watercourse"
+    ],
+    "t": [
+      "watercourse"
+    ]
+  },
+  {
+    "relation": "P449",
+    "description": [
+      "original",
+      "network",
+      "is",
+      "network",
+      "(",
+      "s",
+      ")",
+      "the",
+      "radio",
+      "or",
+      "television",
+      "show",
+      "was",
+      "originally",
+      "aired",
+      "on",
+      ","
+    ],
+    "h": [
+      "radio",
+      "television show"
+    ],
+    "t": [
+      "original network"
+    ]
+  },
+  {
+    "relation": "P460",
+    "description": [
+      "said",
+      "to",
+      "be",
+      "the",
+      "same",
+      "as",
+      "is",
+      "this",
+      "item",
+      "is",
+      "said",
+      "to",
+      "be",
+      "the",
+      "same",
+      "as",
+      "that",
+      "item",
+      ",",
+      "but",
+      "the",
+      "statement",
+      "is",
+      "disputed"
+    ],
+    "h": [
+      "same item"
+    ],
+    "t": [
+      "same item"
+    ]
+  },
+  {
+    "relation": "P466",
+    "description": [
+      "occupant",
+      "is",
+      "person",
+      "or",
+      "organization",
+      "occupying",
+      "a",
+      "building",
+      "or",
+      "facility"
+    ],
+    "h": [
+      "building",
+      "facility"
+    ],
+    "t": [
+      "occupant",
+      "person",
+      "organization"
+    ]
+  },
+  {
+    "relation": "P495",
+    "description": [
+      "country",
+      "of",
+      "origin",
+      "is",
+      "country",
+      "of",
+      "origin",
+      "of",
+      "the",
+      "creative",
+      "work",
+      "or",
+      "subject",
+      "item"
+    ],
+    "h": [
+      "creative work",
+      "subject item"
+    ],
+    "t": [
+      "country of origin"
+    ]
+  },
+  {
+    "relation": "P551",
+    "description": [
+      "residence",
+      "is",
+      "the",
+      "place",
+      "where",
+      "the",
+      "person",
+      "is",
+      ",",
+      "or",
+      "has",
+      "been",
+      ",",
+      "resident"
+    ],
+    "h": [
+      "person",
+      "resident"
+    ],
+    "t": [
+      "residence",
+      "place"
+    ]
+  },
+  {
+    "relation": "P674",
+    "description": [
+      "characters",
+      "is",
+      "characters",
+      "which",
+      "appear",
+      "in",
+      "this",
+      "item",
+      "(",
+      "like",
+      "plays",
+      ",",
+      "operas",
+      ",",
+      "operettas",
+      ",",
+      "books",
+      ",",
+      "comics",
+      ",",
+      "films",
+      ",",
+      "TV",
+      "series",
+      ",",
+      "video",
+      "games",
+      ")"
+    ],
+    "h": [
+      "characters"
+    ],
+    "t": [
+      "plays",
+      "operas",
+      "operettas",
+      "books",
+      "comics",
+      "films",
+      "TV series",
+      "video games"
+    ]
+  },
+  {
+    "relation": "P706",
+    "description": [
+      "subject",
+      "located",
+      "on",
+      "terrain",
+      "feature",
+      "is",
+      "located",
+      "on",
+      "the",
+      "specified",
+      "landform",
+      "."
+    ],
+    "h": [
+      "subject"
+    ],
+    "t": [
+      "specified landform"
+    ]
+  },
+  {
+    "relation": "P800",
+    "description": [
+      "notable",
+      "work",
+      "is",
+      "notable",
+      "scientific",
+      ",",
+      "artistic",
+      "or",
+      "literary",
+      "work",
+      ",",
+      "or",
+      "other",
+      "work",
+      "of",
+      "significance",
+      "among",
+      "creator",
+      "or",
+      "person",
+      "\u2019",
+      "s",
+      "works"
+    ],
+    "h": [
+      "person",
+      "creator"
+    ],
+    "t": [
+      "notable work"
+    ]
+  },
+  {
+    "relation": "P937",
+    "description": [
+      "work",
+      "location",
+      "is",
+      "location",
+      "where",
+      "persons",
+      "were",
+      "active"
+    ],
+    "h": [
+      "persons"
+    ],
+    "t": [
+      "work location"
+    ]
+  },
+  {
+    "relation": "P991",
+    "description": [
+      "successful",
+      "candidate",
+      "is",
+      "person",
+      "(",
+      "s",
+      ")",
+      "elected",
+      "after",
+      "the",
+      "election"
+    ],
+    "h": [
+      "election"
+    ],
+    "t": [
+      "successful candidate",
+      "person"
+    ]
+  },
+  {
+    "relation": "P1001",
+    "description": [
+      "applies",
+      "to",
+      "jurisdiction",
+      "is",
+      "the",
+      "item",
+      "(",
+      "an",
+      "institution",
+      ",",
+      "law",
+      ",",
+      "public",
+      "office",
+      "...",
+      ")",
+      "belongs",
+      "to",
+      "or",
+      "has",
+      "power",
+      "over",
+      "or",
+      "applies",
+      "to",
+      "the",
+      "value",
+      "(",
+      "a",
+      "territorial",
+      "jurisdiction",
+      ":",
+      "a",
+      "country",
+      ",",
+      "state",
+      ",",
+      "municipality",
+      ",",
+      "...",
+      ")"
+    ],
+    "h": [
+      "item",
+      "institution",
+      "law",
+      "public office"
+    ],
+    "t": [
+      "territorial jurisdiction",
+      "country",
+      "state",
+      "municipality"
+    ]
+  },
+  {
+    "relation": "P1303",
+    "description": [
+      "instrument",
+      "is",
+      "musical",
+      "instrument",
+      "that",
+      "a",
+      "person",
+      "plays"
+    ],
+    "h": [
+      "person"
+    ],
+    "t": [
+      "musical instrument"
+    ]
+  },
+  {
+    "relation": "P1344",
+    "description": [
+      "participant",
+      "of",
+      "is",
+      "event",
+      "a",
+      "person",
+      "or",
+      "an",
+      "organization",
+      "was",
+      "a",
+      "participant",
+      "in"
+    ],
+    "h": [
+      "participant",
+      "person",
+      "organization"
+    ],
+    "t": [
+      "event"
+    ]
+  },
+  {
+    "relation": "P1346",
+    "description": [
+      "winner",
+      "is",
+      "winner",
+      "of",
+      "an",
+      "event"
+    ],
+    "h": [
+      "event"
+    ],
+    "t": [
+      "winner"
+    ]
+  },
+  {
+    "relation": "P1408",
+    "description": [
+      "licensed",
+      "to",
+      "broadcast",
+      "to",
+      "is",
+      "place",
+      "that",
+      "a",
+      "radio",
+      "/",
+      "TV",
+      "station",
+      "is",
+      "licensed",
+      "/",
+      "required",
+      "to",
+      "broadcast",
+      "to"
+    ],
+    "h": [
+      "radio",
+      "TV station"
+    ],
+    "t": [
+      "place"
+    ]
+  },
+  {
+    "relation": "P1435",
+    "description": [
+      "heritage",
+      "designation",
+      "is",
+      "heritage",
+      "designation",
+      "of",
+      "a",
+      "historical",
+      "site"
+    ],
+    "h": [
+      "historical site"
+    ],
+    "t": [
+      "heritage designation"
+    ]
+  },
+  {
+    "relation": "P25",
+    "description": [
+      "mother",
+      "is",
+      "female",
+      "parent",
+      "of",
+      "the",
+      "subject",
+      "(",
+      "person",
+      ")"
+    ],
+    "h": [
+      "person"
+    ],
+    "t": [
+      "mother",
+      "female parent"
+    ]
+  },
+  {
+    "relation": "P26",
+    "description": [
+      "spouse",
+      "is",
+      "the",
+      "subject",
+      "(",
+      "person",
+      ")",
+      "has",
+      "the",
+      "object",
+      "(",
+      "person",
+      ")",
+      "as",
+      "their",
+      "spouse",
+      "(",
+      "husband",
+      ",",
+      "wife",
+      ",",
+      "partner",
+      ",",
+      "etc.",
+      ")",
+      "."
+    ],
+    "h": [
+      "person",
+      "husband",
+      "wife"
+    ],
+    "t": [
+      "person",
+      "spouse",
+      "husband",
+      "wife",
+      "partner"
+    ]
+  },
+  {
+    "relation": "P40",
+    "description": [
+      "child",
+      "is",
+      "subject",
+      "(",
+      "person",
+      ")",
+      "has",
+      "the",
+      "object",
+      "(",
+      "person",
+      ")",
+      "in",
+      "their",
+      "family",
+      "as",
+      "their",
+      "offspring",
+      "son",
+      "or",
+      "daughter"
+    ],
+    "h": [
+      "person"
+    ],
+    "t": [
+      "child",
+      "offspring son",
+      "offspring daughter",
+      "person"
+    ]
+  },
+  {
+    "relation": "P59",
+    "description": [
+      "constellation",
+      "is",
+      "the",
+      "area",
+      "of",
+      "the",
+      "celestial",
+      "sphere",
+      "of",
+      "which",
+      "the",
+      "subject",
+      "is",
+      "a",
+      "part",
+      "(",
+      "from",
+      "a",
+      "scientific",
+      "standpoint",
+      ",",
+      "not",
+      "an",
+      "astrological",
+      "one",
+      ")"
+    ],
+    "h": [
+      "celestial sphere"
+    ],
+    "t": [
+      "constellation"
+    ]
+  },
+  {
+    "relation": "P155",
+    "description": [
+      "follows",
+      "is",
+      "immediately",
+      "prior",
+      "item",
+      "in",
+      "some",
+      "series",
+      "of",
+      "which",
+      "the",
+      "subject",
+      "is",
+      "part",
+      "."
+    ],
+    "h": [
+      "subject"
+    ],
+    "t": [
+      "follows",
+      "prior item"
+    ]
+  },
+  {
+    "relation": "P206",
+    "description": [
+      "subject",
+      "located",
+      "in",
+      "or",
+      "next",
+      "to",
+      "body",
+      "of",
+      "water",
+      "is",
+      "sea",
+      ",",
+      "lake",
+      "or",
+      "river"
+    ],
+    "h": [
+      "subject"
+    ],
+    "t": [
+      "sea",
+      "lake",
+      "river",
+      "water"
+    ]
+  },
+  {
+    "relation": "P361",
+    "description": [
+      "part",
+      "of",
+      "is",
+      "object",
+      "of",
+      "which",
+      "the",
+      "subject",
+      "is",
+      "a",
+      "part",
+      "."
+    ],
+    "h": [
+      "subject",
+      "part"
+    ],
+    "t": [
+      "object"
+    ]
+  },
+  {
+    "relation": "P364",
+    "description": [
+      "original",
+      "language",
+      "of",
+      "work",
+      "is",
+      "language",
+      "in",
+      "which",
+      "a",
+      "film",
+      "or",
+      "a",
+      "performance",
+      "work",
+      "was",
+      "originally",
+      "created",
+      "."
+    ],
+    "h": [
+      "film",
+      "performance work"
+    ],
+    "t": [
+      "original language"
+    ]
+  },
+  {
+    "relation": "P412",
+    "description": [
+      "voice",
+      "type",
+      "is",
+      "person",
+      "\u2019",
+      "s",
+      "voice",
+      "type",
+      ".",
+      "expected",
+      "values",
+      ":",
+      "soprano",
+      ",",
+      "mezzo-soprano",
+      ",",
+      "contralto",
+      ",",
+      "countertenor",
+      ",",
+      "tenor",
+      ",",
+      "baritone",
+      ",",
+      "bass",
+      "(",
+      "and",
+      "derivatives",
+      ")"
+    ],
+    "h": [
+      "person"
+    ],
+    "t": [
+      "voice type",
+      "soprano",
+      "mezzo-soprano",
+      "contralto",
+      "countertenor",
+      "tenor",
+      "baritone",
+      "bass"
+    ]
+  },
+  {
+    "relation": "P413",
+    "description": [
+      "position",
+      "played",
+      "on",
+      "team",
+      "/",
+      "speciality",
+      "is",
+      "position",
+      "or",
+      "specialism",
+      "of",
+      "a",
+      "player",
+      "on",
+      "a",
+      "team",
+      ",",
+      "e.g",
+      ".",
+      "Small",
+      "Forward"
+    ],
+    "h": [
+      "player"
+    ],
+    "t": [
+      "position",
+      "specialism",
+      "Small Forward"
+    ]
+  },
+  {
+    "relation": "P463",
+    "description": [
+      "member",
+      "of",
+      "is",
+      "organization",
+      "or",
+      "club",
+      "to",
+      "which",
+      "the",
+      "subject",
+      "belongs",
+      "."
+    ],
+    "h": [
+      "subject",
+      "member"
+    ],
+    "t": [
+      "organization",
+      "club"
+    ]
+  },
+  {
+    "relation": "P641",
+    "description": [
+      "sport",
+      "is",
+      "sport",
+      "in",
+      "which",
+      "the",
+      "entity",
+      "or",
+      "player",
+      "participates",
+      "or",
+      "belongs",
+      "to"
+    ],
+    "h": [
+      "entity",
+      "player"
+    ],
+    "t": [
+      "sport"
+    ]
+  },
+  {
+    "relation": "P921",
+    "description": [
+      "main",
+      "subject",
+      "is",
+      "primary",
+      "topic",
+      "of",
+      "a",
+      "work"
+    ],
+    "h": [
+      "work",
+      "main subject"
+    ],
+    "t": [
+      "primary topic"
+    ]
+  },
+  {
+    "relation": "P19",
+    "description": [
+      "place",
+      "of",
+      "birth",
+      "is",
+      "most",
+      "specific",
+      "known",
+      "(",
+      "e.g",
+      ".",
+      "city",
+      "and",
+      "country",
+      "or",
+      "hospital",
+      "and",
+      "city",
+      ")",
+      "birth",
+      "location",
+      "of",
+      "a",
+      "person",
+      ",",
+      "animal",
+      "or",
+      "fictional",
+      "character"
+    ],
+    "h": [
+      "person",
+      "animal",
+      "fictional character"
+    ],
+    "t": [
+      "place",
+      "city",
+      "country",
+      "hospital",
+      "location"
+    ]
+  },
+  {
+    "relation": "P20",
+    "description": [
+      "place",
+      "of",
+      "death",
+      "is",
+      "most",
+      "specific",
+      "known",
+      "(",
+      "e.g",
+      ".",
+      "city",
+      "and",
+      "country",
+      "or",
+      "hospital",
+      "and",
+      "city",
+      ")",
+      "death",
+      "location",
+      "of",
+      "a",
+      "person",
+      ",",
+      "animal",
+      "or",
+      "fictional",
+      "character"
+    ],
+    "h": [
+      "person",
+      "animal",
+      "fictional character"
+    ],
+    "t": [
+      "place",
+      "city",
+      "country",
+      "hospital",
+      "location"
+    ]
+  },
+  {
+    "relation": "P30",
+    "description": [
+      "continent",
+      "is",
+      "continent",
+      "of",
+      "which",
+      "the",
+      "subject",
+      "is",
+      "a",
+      "part"
+    ],
+    "h": [
+      "subject"
+    ],
+    "t": [
+      "continent"
+    ]
+  },
+  {
+    "relation": "P36",
+    "description": [
+      "capital",
+      "is",
+      "primary",
+      "city",
+      "of",
+      "a",
+      "country",
+      ",",
+      "province",
+      ",",
+      "state",
+      "or",
+      "other",
+      "type",
+      "of",
+      "administrative",
+      "territorial",
+      "entity"
+    ],
+    "h": [
+      "country",
+      "province",
+      "state",
+      "administrative territorial entity"
+    ],
+    "t": [
+      "primary city",
+      "capital"
+    ]
+  },
+  {
+    "relation": "P37",
+    "description": [
+      "official",
+      "language",
+      "is",
+      "language",
+      "designated",
+      "as",
+      "official",
+      "by",
+      "this",
+      "item"
+    ],
+    "h": [
+      "item"
+    ],
+    "t": [
+      "official language"
+    ]
+  },
+  {
+    "relation": "P47",
+    "description": [
+      "shares",
+      "border",
+      "with",
+      "is",
+      "countries",
+      "or",
+      "administrative",
+      "subdivisions",
+      ",",
+      "of",
+      "equal",
+      "level",
+      ",",
+      "that",
+      "this",
+      "item",
+      "borders",
+      ",",
+      "either",
+      "by",
+      "land",
+      "or",
+      "water",
+      "."
+    ],
+    "h": [
+      "countries",
+      "administrative subdivisions"
+    ],
+    "t": [
+      "countries",
+      "administrative subdivisions"
+    ]
+  },
+  {
+    "relation": "P50",
+    "description": [
+      "author",
+      "is",
+      "main",
+      "creator",
+      "of",
+      "a",
+      "written",
+      "work"
+    ],
+    "h": [
+      "written work"
+    ],
+    "t": [
+      "author",
+      "main creator"
+    ]
+  },
+  {
+    "relation": "P53",
+    "description": [
+      "family",
+      "is",
+      "family",
+      ",",
+      "including",
+      "dynasty",
+      "and",
+      "nobility",
+      "houses",
+      "."
+    ],
+    "h": [
+      "subject",
+      "person"
+    ],
+    "t": [
+      "nobility houses",
+      "dynasty",
+      "family"
+    ]
+  },
+  {
+    "relation": "P54",
+    "description": [
+      "member",
+      "of",
+      "sports",
+      "team",
+      "is",
+      "sports",
+      "teams",
+      "or",
+      "clubs",
+      "that",
+      "the",
+      "subject",
+      "currently",
+      "represents",
+      "or",
+      "formerly",
+      "represented"
+    ],
+    "h": [
+      "member",
+      "subject"
+    ],
+    "t": [
+      "sports team",
+      "clubs"
+    ]
+  },
+  {
+    "relation": "P69",
+    "description": [
+      "educated",
+      "at",
+      "is",
+      "educational",
+      "institution",
+      "attended",
+      "by",
+      "subject"
+    ],
+    "h": [
+      "subject"
+    ],
+    "t": [
+      "educational institution"
+    ]
+  },
+  {
+    "relation": "P81",
+    "description": [
+      "connecting",
+      "line",
+      "is",
+      "railway",
+      "or",
+      "public",
+      "transport",
+      "line",
+      "(",
+      "s",
+      ")",
+      "subject",
+      "is",
+      "directly",
+      "connected",
+      "to",
+      "."
+    ],
+    "h": [
+      "subject"
+    ],
+    "t": [
+      "railway",
+      "public transport lines"
+    ]
+  },
+  {
+    "relation": "P108",
+    "description": [
+      "employer",
+      "is",
+      "person",
+      "or",
+      "organization",
+      "for",
+      "which",
+      "the",
+      "subject",
+      "works",
+      "or",
+      "worked"
+    ],
+    "h": [
+      "employer",
+      "person",
+      "subject"
+    ],
+    "t": [
+      "organization",
+      "person"
+    ]
+  },
+  {
+    "relation": "P112",
+    "description": [
+      "founded",
+      "by",
+      "is",
+      "founder",
+      "or",
+      "co-founder",
+      "of",
+      "this",
+      "organization",
+      ",",
+      "religion",
+      "or",
+      "place"
+    ],
+    "h": [
+      "organization",
+      "religion",
+      "place"
+    ],
+    "t": [
+      "founder",
+      "co-founder"
+    ]
+  },
+  {
+    "relation": "P121",
+    "description": [
+      "item",
+      "operated",
+      "is",
+      "equipment",
+      ",",
+      "installation",
+      "or",
+      "service",
+      "operated",
+      "by",
+      "the",
+      "subject"
+    ],
+    "h": [
+      "subject"
+    ],
+    "t": [
+      "item",
+      "equipment",
+      "installation",
+      "service"
+    ]
+  },
+  {
+    "relation": "P138",
+    "description": [
+      "named",
+      "after",
+      "is",
+      "entity",
+      "or",
+      "event",
+      "that",
+      "inspired",
+      "the",
+      "subject",
+      "'s",
+      "name",
+      ",",
+      "or",
+      "namesake"
+    ],
+    "h": [
+      "name",
+      "namesake"
+    ],
+    "t": [
+      "entity",
+      "event"
+    ]
+  },
+  {
+    "relation": "P144",
+    "description": [
+      "based",
+      "on",
+      "is",
+      "the",
+      "work",
+      "(",
+      "s",
+      ")",
+      "used",
+      "as",
+      "the",
+      "basis",
+      "for",
+      "subject",
+      "item"
+    ],
+    "h": [
+      "subject",
+      "item"
+    ],
+    "t": [
+      "basis work",
+      "item"
+    ]
+  },
+  {
+    "relation": "P161",
+    "description": [
+      "cast",
+      "member",
+      "is",
+      "actor",
+      "in",
+      "the",
+      "subject",
+      "production"
+    ],
+    "h": [
+      "subject",
+      "production"
+    ],
+    "t": [
+      "cast member",
+      "actor"
+    ]
+  },
+  {
+    "relation": "P162",
+    "description": [
+      "producer",
+      "is",
+      "person",
+      "who",
+      "produced",
+      "the",
+      "film",
+      ",",
+      "musical",
+      "work",
+      ",",
+      "theatrical",
+      "production",
+      ",",
+      "etc",
+      "."
+    ],
+    "h": [
+      "film",
+      "musical work",
+      "theatrical production"
+    ],
+    "t": [
+      "producer",
+      "person"
+    ]
+  },
+  {
+    "relation": "P166",
+    "description": [
+      "award",
+      "received",
+      "is",
+      "award",
+      "or",
+      "recognition",
+      "received",
+      "by",
+      "a",
+      "person",
+      ",",
+      "organisation",
+      "or",
+      "creative",
+      "work"
+    ],
+    "h": [
+      "person",
+      "organisation",
+      "creative work"
+    ],
+    "t": [
+      "award",
+      "recognition"
+    ]
+  },
+  {
+    "relation": "P170",
+    "description": [
+      "creator",
+      "is",
+      "maker",
+      "of",
+      "this",
+      "creative",
+      "work",
+      "or",
+      "other",
+      "object"
+    ],
+    "h": [
+      "creative work"
+    ],
+    "t": [
+      "creator",
+      "maker"
+    ]
+  },
+  {
+    "relation": "P179",
+    "description": [
+      "part",
+      "of",
+      "the",
+      "series",
+      "is",
+      "series",
+      "which",
+      "contains",
+      "the",
+      "subject"
+    ],
+    "h": [
+      "subject",
+      "series"
+    ],
+    "t": [
+      "series"
+    ]
+  },
+  {
+    "relation": "P186",
+    "description": [
+      "material",
+      "used",
+      "is",
+      "material",
+      "the",
+      "subject",
+      "is",
+      "made",
+      "of",
+      "or",
+      "derived",
+      "from"
+    ],
+    "h": [
+      "subject",
+      "material"
+    ],
+    "t": [
+      "material"
+    ]
+  },
+  {
+    "relation": "P190",
+    "description": [
+      "twinned",
+      "administrative",
+      "body",
+      "is",
+      "twin",
+      "towns",
+      ",",
+      "sister",
+      "cities",
+      ",",
+      "twinned",
+      "municipalities",
+      "and",
+      "other",
+      "localities",
+      "that",
+      "have",
+      "a",
+      "partnership",
+      "or",
+      "cooperative",
+      "agreement"
+    ],
+    "h": [
+      "town",
+      "city",
+      "municipalities",
+      "administrative body"
+    ],
+    "t": [
+      "town",
+      "city",
+      "municipalities",
+      "administrative body"
+    ]
+  },
+  {
+    "relation": "P272",
+    "description": [
+      "production",
+      "company",
+      "is",
+      "company",
+      "that",
+      "produced",
+      "this",
+      "film",
+      ",",
+      "audio",
+      "or",
+      "performing",
+      "arts",
+      "work"
+    ],
+    "h": [
+      "film",
+      "audio",
+      "performing arts work"
+    ],
+    "t": [
+      "production company"
+    ]
+  },
+  {
+    "relation": "P279",
+    "description": [
+      "subclass",
+      "of",
+      "is",
+      "all",
+      "instances",
+      "of",
+      "these",
+      "items",
+      "are",
+      "instances",
+      "of",
+      "those",
+      "items",
+      ";",
+      "this",
+      "item",
+      "is",
+      "a",
+      "class",
+      "(",
+      "subset",
+      ")",
+      "of",
+      "that",
+      "item",
+      "."
+    ],
+    "h": [
+      "subset",
+      "subclass",
+      "instances"
+    ],
+    "t": [
+      "item",
+      "items"
+    ]
+  },
+  {
+    "relation": "P360",
+    "description": [
+      "is",
+      "a",
+      "list",
+      "of",
+      "is",
+      "common",
+      "element",
+      "between",
+      "all",
+      "listed",
+      "items"
+    ],
+    "h": [
+      "element"
+    ],
+    "t": [
+      "listed items"
+    ]
+  },
+  {
+    "relation": "P366",
+    "description": [
+      "use",
+      "is",
+      "main",
+      "use",
+      "of",
+      "the",
+      "subject",
+      "(",
+      "includes",
+      "current",
+      "and",
+      "former",
+      "usage",
+      ")"
+    ],
+    "h": [
+      "subject"
+    ],
+    "t": [
+      "use"
+    ]
+  },
+  {
+    "relation": "P376",
+    "description": [
+      "located",
+      "on",
+      "astronomical",
+      "location",
+      "is",
+      "astronomical",
+      "body",
+      "on",
+      "which",
+      "features",
+      "or",
+      "places",
+      "are",
+      "situated"
+    ],
+    "h": [
+      "features",
+      "places"
+    ],
+    "t": [
+      "astronomical body"
+    ]
+  },
+  {
+    "relation": "P397",
+    "description": [
+      "parent",
+      "astronomical",
+      "body",
+      "is",
+      "major",
+      "astronomical",
+      "body",
+      "the",
+      "item",
+      "belongs",
+      "to"
+    ],
+    "h": [
+      "astronomical body"
+    ],
+    "t": [
+      "astronomical body"
+    ]
+  },
+  {
+    "relation": "P425",
+    "description": [
+      "field",
+      "of",
+      "this",
+      "occupation",
+      "is",
+      "activity",
+      "corresponding",
+      "to",
+      "this",
+      "occupation",
+      "(",
+      "use",
+      "only",
+      "for",
+      "occupations",
+      ")"
+    ],
+    "h": [
+      "occupation"
+    ],
+    "t": [
+      "activity"
+    ]
+  },
+  {
+    "relation": "P452",
+    "description": [
+      "industry",
+      "is",
+      "industry",
+      "of",
+      "company",
+      "or",
+      "organization"
+    ],
+    "h": [
+      "company",
+      "organization"
+    ],
+    "t": [
+      "industry"
+    ]
+  },
+  {
+    "relation": "P461",
+    "description": [
+      "opposite",
+      "of",
+      "is",
+      "item",
+      "that",
+      "is",
+      "the",
+      "opposite",
+      "of",
+      "this",
+      "item"
+    ],
+    "h": [
+      "item"
+    ],
+    "t": [
+      "item"
+    ]
+  },
+  {
+    "relation": "P530",
+    "description": [
+      "diplomatic",
+      "relation",
+      "is",
+      "diplomatic",
+      "relations",
+      "of",
+      "the",
+      "country"
+    ],
+    "h": [
+      "country"
+    ],
+    "t": [
+      "country"
+    ]
+  },
+  {
+    "relation": "P569",
+    "description": [
+      "date",
+      "of",
+      "birth",
+      "is",
+      "date",
+      "on",
+      "which",
+      "the",
+      "subject",
+      "was",
+      "born"
+    ],
+    "h": [
+      "date"
+    ],
+    "t": [
+      "subject",
+      "person"
+    ]
+  },
+  {
+    "relation": "P570",
+    "description": [
+      "date",
+      "of",
+      "death",
+      "is",
+      "date",
+      "on",
+      "which",
+      "the",
+      "subject",
+      "died"
+    ],
+    "h": [
+      "date"
+    ],
+    "t": [
+      "subject",
+      "person"
+    ]
+  },
+  {
+    "relation": "P571",
+    "description": [
+      "inception",
+      "is",
+      "date",
+      "or",
+      "point",
+      "in",
+      "time",
+      "when",
+      "the",
+      "subject",
+      "came",
+      "into",
+      "existence",
+      "as",
+      "defined"
+    ],
+    "h": [
+      "date",
+      "time"
+    ],
+    "t": [
+      "subject"
+    ]
+  },
+  {
+    "relation": "P577",
+    "description": [
+      "publication",
+      "date",
+      "is",
+      "date",
+      "or",
+      "point",
+      "in",
+      "time",
+      "when",
+      "a",
+      "work",
+      "was",
+      "first",
+      "published",
+      "or",
+      "released"
+    ],
+    "h": [
+      "date",
+      "time"
+    ],
+    "t": [
+      "publication",
+      "work"
+    ]
+  },
+  {
+    "relation": "P607",
+    "description": [
+      "conflict",
+      "is",
+      "battles",
+      ",",
+      "wars",
+      "or",
+      "other",
+      "military",
+      "engagements",
+      "in",
+      "which",
+      "the",
+      "person",
+      "or",
+      "item",
+      "participated"
+    ],
+    "h": [
+      "person",
+      "item"
+    ],
+    "t": [
+      "battles",
+      "wars",
+      "military engagements"
+    ]
+  },
+  {
+    "relation": "P647",
+    "description": [
+      "drafted",
+      "by",
+      "is",
+      "which",
+      "team",
+      "the",
+      "player",
+      "was",
+      "drafted",
+      "by"
+    ],
+    "h": [
+      "player"
+    ],
+    "t": [
+      "team"
+    ]
+  },
+  {
+    "relation": "P676",
+    "description": [
+      "lyrics",
+      "by",
+      "is",
+      "author",
+      "of",
+      "song",
+      "lyrics"
+    ],
+    "h": [
+      "song lyrics"
+    ],
+    "t": [
+      "author"
+    ]
+  },
+  {
+    "relation": "P734",
+    "description": [
+      "family",
+      "name",
+      "is",
+      "part",
+      "of",
+      "full",
+      "name",
+      "of",
+      "person"
+    ],
+    "h": [
+      "name",
+      "person"
+    ],
+    "t": [
+      "family name",
+      "person"
+    ]
+  },
+  {
+    "relation": "P735",
+    "description": [
+      "given",
+      "name",
+      "is",
+      "first",
+      "name",
+      "or",
+      "another",
+      "given",
+      "name",
+      "of",
+      "this",
+      "person",
+      "."
+    ],
+    "h": [
+      "name",
+      "person"
+    ],
+    "t": [
+      "first name",
+      "person"
+    ]
+  },
+  {
+    "relation": "P737",
+    "description": [
+      "influenced",
+      "by",
+      "is",
+      "this",
+      "person",
+      ",",
+      "idea",
+      ".",
+      "is",
+      "informed",
+      "by",
+      "that",
+      "other",
+      "person",
+      ",",
+      "idea",
+      "e.g",
+      ".",
+      "``",
+      "Heidegger",
+      "was",
+      "influenced",
+      "by",
+      "Aristotle",
+      "''",
+      "."
+    ],
+    "h": [
+      "person",
+      "idea"
+    ],
+    "t": [
+      "person",
+      "idea"
+    ]
+  },
+  {
+    "relation": "P802",
+    "description": [
+      "student",
+      "is",
+      "notable",
+      "student",
+      "of",
+      "an",
+      "individual"
+    ],
+    "h": [
+      "individual",
+      "person"
+    ],
+    "t": [
+      "student"
+    ]
+  },
+  {
+    "relation": "P840",
+    "description": [
+      "narrative",
+      "location",
+      "is",
+      "the",
+      "narrative",
+      "of",
+      "the",
+      "work",
+      "is",
+      "set",
+      "in",
+      "this",
+      "location"
+    ],
+    "h": [
+      "work"
+    ],
+    "t": [
+      "location"
+    ]
+  },
+  {
+    "relation": "P1056",
+    "description": [
+      "product",
+      "or",
+      "material",
+      "produced",
+      "is",
+      "material",
+      "or",
+      "product",
+      "produced",
+      "by",
+      "a",
+      "government",
+      "agency",
+      ",",
+      "business",
+      ",",
+      "industry",
+      ",",
+      "facility",
+      ",",
+      "or",
+      "process"
+    ],
+    "h": [
+      "business",
+      "government agency",
+      "industry",
+      "facility",
+      "process"
+    ],
+    "t": [
+      "material",
+      "product"
+    ]
+  },
+  {
+    "relation": "P1080",
+    "description": [
+      "from",
+      "narrative",
+      "universe",
+      "is",
+      "subject",
+      "'s",
+      "fictional",
+      "entity",
+      "is",
+      "in",
+      "the",
+      "object",
+      "narrative",
+      "."
+    ],
+    "h": [
+      "fictional entity"
+    ],
+    "t": [
+      "universe"
+    ]
+  },
+  {
+    "relation": "P1269",
+    "description": [
+      "facet",
+      "of",
+      "is",
+      "topic",
+      "of",
+      "which",
+      "this",
+      "item",
+      "is",
+      "an",
+      "aspect",
+      ",",
+      "item",
+      "that",
+      "offers",
+      "a",
+      "broader",
+      "perspective",
+      "on",
+      "the",
+      "same",
+      "topic"
+    ],
+    "h": [
+      "aspect",
+      "topic",
+      "item"
+    ],
+    "t": [
+      "item"
+    ]
+  },
+  {
+    "relation": "P1365",
+    "description": [
+      "replaces",
+      "is",
+      "person",
+      ",",
+      "state",
+      "or",
+      "item",
+      "replaced",
+      "."
+    ],
+    "h": [
+      "person",
+      "state",
+      "item"
+    ],
+    "t": [
+      "person",
+      "state",
+      "item"
+    ]
+  },
+  {
+    "relation": "P1412",
+    "description": [
+      "languages",
+      "spoken",
+      ",",
+      "written",
+      "or",
+      "signed",
+      "is",
+      "language",
+      "(",
+      "s",
+      ")",
+      "that",
+      "a",
+      "person",
+      "speaks",
+      ",",
+      "writes",
+      "or",
+      "signs",
+      ",",
+      "including",
+      "the",
+      "native",
+      "language",
+      "(",
+      "s",
+      ")"
+    ],
+    "h": [
+      "person"
+    ],
+    "t": [
+      "language"
+    ]
+  },
+  {
+    "relation": "P1552",
+    "description": [
+      "has",
+      "quality",
+      "is",
+      "the",
+      "entity",
+      "has",
+      "an",
+      "inherent",
+      "or",
+      "distinguishing",
+      "non-material",
+      "characteristic"
+    ],
+    "h": [
+      "entity"
+    ],
+    "t": [
+      "characteristic"
+    ]
+  },
+  {
+    "relation": "P1589",
+    "description": [
+      "lowest",
+      "point",
+      "is",
+      "point",
+      "with",
+      "lowest",
+      "elevation",
+      "in",
+      "the",
+      "country",
+      ",",
+      "region",
+      ",",
+      "city",
+      "or",
+      "area"
+    ],
+    "h": [
+      "country",
+      "region",
+      "city",
+      "area"
+    ],
+    "t": [
+      "country",
+      "area",
+      "region"
+    ]
+  },
+  {
+    "relation": "P1889",
+    "description": [
+      "different",
+      "from",
+      "is",
+      "item",
+      "that",
+      "is",
+      "different",
+      "from",
+      "another",
+      "item",
+      ",",
+      "with",
+      "which",
+      "it",
+      "is",
+      "often",
+      "confused"
+    ],
+    "h": [
+      "item"
+    ],
+    "t": [
+      "item"
+    ]
+  },
+  {
+    "relation": "P2389",
+    "description": [
+      "organization",
+      "directed",
+      "from",
+      "the",
+      "office",
+      "or",
+      "person",
+      "is",
+      "organization",
+      "which",
+      "is",
+      "directed",
+      "by",
+      "this",
+      "office"
+    ],
+    "h": [
+      "person",
+      "office"
+    ],
+    "t": [
+      "organization"
+    ]
+  },
+  {
+    "relation": "P2416",
+    "description": [
+      "sports",
+      "discipline",
+      "competed",
+      "in",
+      "is",
+      "discipline",
+      "an",
+      "athlete",
+      "competed",
+      "in",
+      "within",
+      "a",
+      "sport"
+    ],
+    "h": [
+      "athlete"
+    ],
+    "t": [
+      "sport"
+    ]
+  }
+]
