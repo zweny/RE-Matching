@@ -1,5 +1,10 @@
-transformers==4.7.0
-#sentence-transformers==2.2.0
-sentence-transformers==2.2.2
+# Model-download package combination verified in issue #3:
+# https://github.com/zweny/RE-Matching/issues/3
+huggingface_hub==0.23.2
+sentence-transformers==3.0.1
+transformers==4.41.2
+requests>=2.31
+
+# Retained original numerical dependencies (use Python 3.8; see README).
 scikit-learn==1.0.2
 numpy==1.19.2
